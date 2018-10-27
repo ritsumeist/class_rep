@@ -1,1 +1,1 @@
-# second_class
+# class_rep
