@@ -1,3 +1,9 @@
 git branch
 git merge
+<<<<<<< HEAD
 git tag
+=======
+git tag
+
+branch切り替え直したよ
+>>>>>>> branch-1
